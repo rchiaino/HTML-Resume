@@ -1,2 +1,2 @@
 # HTML-Resume
-Contains a web-hosted HTML version of my resume.
+Contains a simple, web-hosted HTML version of my resume.
